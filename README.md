@@ -1,5 +1,6 @@
 # k1s2_RGR_Prog
 GAME OF NICKELS
+
 #
 ![image](https://github.com/Dan-live/k1s2_RGR_Prog/assets/109356212/af5f5baa-a2b0-4b62-832a-b920c264bf4b)
 ![image](https://github.com/Dan-live/k1s2_RGR_Prog/assets/109356212/263b910b-a93c-424c-aeea-6f6663453952)
